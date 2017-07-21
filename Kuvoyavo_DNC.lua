@@ -17,7 +17,7 @@ function get_sets()
 	
 	sets.Base = {
 		head = {name="Taeon chapeau",augments={'STR+7 CHR+7','Accuracy+17','"Dual Wield"+4'}},
-		body = {name="Taeon tabard",augments={'"Triple Atk."+1'}},
+		body = {name="Taeon Tabard", augments={'Pet: Accuracy+2 Pet: Rng. Acc.+2','Pet: "Regen"+3',}},
 		hands = {name="Taeon gloves",augments={'"Triple Atk."+1'}},
 		legs = {name="Taeon tights",augments={'VIT+3','Accuracy+5','"Triple Atk."+1'}},
 		feet = {name="Taeon boots",augments={'Weapon Skill Acc.+10'}},

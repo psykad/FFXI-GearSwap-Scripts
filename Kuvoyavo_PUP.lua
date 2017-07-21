@@ -19,7 +19,7 @@ function get_sets()
 	}	
 	sets.base["Pet Tank"] = {
 		head="Pitre taj",
-		body="Foire tobe +1",
+		body={name="Taeon Tabard", augments={'Pet: Accuracy+2 Pet: Rng. Acc.+2','Pet: "Regen"+3',}},
 		hands={name="Taeon gloves",augments={'Evasion+7','Pet: "Dbl. Atk."+3','STR+5'}},
 		legs={name="Taeon tights",augments={'Pet: Evasion+16','Pet: "Dbl. Atk."+4','STR+4 CHR+4'}},
 		feet={name="Taeon Boots",augments={'Pet: Attack+9 Pet: Rng.Atk.+9','Pet: "Dbl. Atk."+3','STR+5 VIT+5'}},
